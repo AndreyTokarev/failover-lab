@@ -1,0 +1,6 @@
+127.0.0.1 localhost
+
+192.168.0.100 gw01.corp.un gw01
+192.168.0.200 gw02.corp.un gw02
+
+172.16.1.254 proxy rep nfs
